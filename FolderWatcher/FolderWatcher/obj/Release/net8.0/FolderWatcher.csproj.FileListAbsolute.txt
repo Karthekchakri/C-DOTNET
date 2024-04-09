@@ -1,0 +1,14 @@
+C:\HandsOn\FolderWatcher\FolderWatcher\bin\Release\net8.0\FolderWatcher.exe
+C:\HandsOn\FolderWatcher\FolderWatcher\bin\Release\net8.0\FolderWatcher.deps.json
+C:\HandsOn\FolderWatcher\FolderWatcher\bin\Release\net8.0\FolderWatcher.runtimeconfig.json
+C:\HandsOn\FolderWatcher\FolderWatcher\bin\Release\net8.0\FolderWatcher.dll
+C:\HandsOn\FolderWatcher\FolderWatcher\bin\Release\net8.0\FolderWatcher.pdb
+C:\HandsOn\FolderWatcher\FolderWatcher\obj\Release\net8.0\FolderWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\HandsOn\FolderWatcher\FolderWatcher\obj\Release\net8.0\FolderWatcher.AssemblyInfoInputs.cache
+C:\HandsOn\FolderWatcher\FolderWatcher\obj\Release\net8.0\FolderWatcher.AssemblyInfo.cs
+C:\HandsOn\FolderWatcher\FolderWatcher\obj\Release\net8.0\FolderWatcher.csproj.CoreCompileInputs.cache
+C:\HandsOn\FolderWatcher\FolderWatcher\obj\Release\net8.0\FolderWatcher.dll
+C:\HandsOn\FolderWatcher\FolderWatcher\obj\Release\net8.0\refint\FolderWatcher.dll
+C:\HandsOn\FolderWatcher\FolderWatcher\obj\Release\net8.0\FolderWatcher.pdb
+C:\HandsOn\FolderWatcher\FolderWatcher\obj\Release\net8.0\FolderWatcher.genruntimeconfig.cache
+C:\HandsOn\FolderWatcher\FolderWatcher\obj\Release\net8.0\ref\FolderWatcher.dll

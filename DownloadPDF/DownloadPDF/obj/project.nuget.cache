@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jGi84AF0MkaQweMmmfkApKUpdFOYWME+AtuLZ3ipPZGWh/zQ7b2BCkrz/r3jX9gE5C0zhCA0KXaajYSt+CUiUQ==",
+  "success": true,
+  "projectFilePath": "C:\\HandsOn\\DownloadPDF\\DownloadPDF\\DownloadPDF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

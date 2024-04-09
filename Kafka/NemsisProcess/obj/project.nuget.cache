@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uzIrvwmiN/aEUYYV5zPjSw8kmq69/fYQRRTCmU0cNI4cC6v4l9732ugxKdpggd+jyMciIrP5+MH1n5Tg33uxBQ==",
+  "success": true,
+  "projectFilePath": "C:\\HandsOn\\Kafka\\NemsisProcess\\NemsisProcess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
+    "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
+    "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
