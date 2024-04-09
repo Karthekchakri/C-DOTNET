@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AzureKeyvaultAccess": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
