@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PersonalRepo\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal.csproj": {}
+  },
+  "projects": {
+    "C:\\PersonalRepo\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PersonalRepo\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal.csproj",
+        "projectName": "AzureStorageEmulatorLocal",
+        "projectPath": "C:\\PersonalRepo\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal.csproj",
+        "packagesPath": "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\",
+        "outputPath": "C:\\PersonalRepo\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Karthek.Chakravarthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\EdiFabric\\EdiFabric.Tools.Professional": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.13.1, )"
+            },
+            "Azure.Storage.Files.Shares": {
+              "target": "Package",
+              "version": "[12.1.0, )"
+            },
+            "Azure.Storage.Queues": {
+              "target": "Package",
+              "version": "[12.11.1, )"
+            },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

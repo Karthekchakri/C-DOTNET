@@ -1,0 +1,14 @@
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\bin\Debug\net8.0\AzureServiceBusIntegration.exe
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\bin\Debug\net8.0\AzureServiceBusIntegration.deps.json
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\bin\Debug\net8.0\AzureServiceBusIntegration.runtimeconfig.json
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\bin\Debug\net8.0\AzureServiceBusIntegration.dll
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\bin\Debug\net8.0\AzureServiceBusIntegration.pdb
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\obj\Debug\net8.0\AzureServiceBusIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\obj\Debug\net8.0\AzureServiceBusIntegration.AssemblyInfoInputs.cache
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\obj\Debug\net8.0\AzureServiceBusIntegration.AssemblyInfo.cs
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\obj\Debug\net8.0\AzureServiceBusIntegration.csproj.CoreCompileInputs.cache
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\obj\Debug\net8.0\AzureServiceBusIntegration.dll
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\obj\Debug\net8.0\refint\AzureServiceBusIntegration.dll
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\obj\Debug\net8.0\AzureServiceBusIntegration.pdb
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\obj\Debug\net8.0\AzureServiceBusIntegration.genruntimeconfig.cache
+C:\PersonalRepo\AzureServiceBusIntegration\AzureServiceBusIntegration\obj\Debug\net8.0\ref\AzureServiceBusIntegration.dll

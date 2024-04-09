@@ -1,0 +1,11 @@
+C:\HandsOn\AzureKubernetes\WeatherForecaseApplication\WeatherForecaseApplication\obj\Docker\publish\WeatherForecaseApplication.exe
+C:\HandsOn\AzureKubernetes\WeatherForecaseApplication\WeatherForecaseApplication\obj\Docker\publish\appsettings.Development.json
+C:\HandsOn\AzureKubernetes\WeatherForecaseApplication\WeatherForecaseApplication\obj\Docker\publish\appsettings.json
+C:\HandsOn\AzureKubernetes\WeatherForecaseApplication\WeatherForecaseApplication\obj\Docker\publish\WeatherForecaseApplication.dll
+C:\HandsOn\AzureKubernetes\WeatherForecaseApplication\WeatherForecaseApplication\obj\Docker\publish\WeatherForecaseApplication.deps.json
+C:\HandsOn\AzureKubernetes\WeatherForecaseApplication\WeatherForecaseApplication\obj\Docker\publish\WeatherForecaseApplication.runtimeconfig.json
+C:\HandsOn\AzureKubernetes\WeatherForecaseApplication\WeatherForecaseApplication\obj\Docker\publish\WeatherForecaseApplication.pdb
+C:\HandsOn\AzureKubernetes\WeatherForecaseApplication\WeatherForecaseApplication\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\HandsOn\AzureKubernetes\WeatherForecaseApplication\WeatherForecaseApplication\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\HandsOn\AzureKubernetes\WeatherForecaseApplication\WeatherForecaseApplication\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\HandsOn\AzureKubernetes\WeatherForecaseApplication\WeatherForecaseApplication\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
