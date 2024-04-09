@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MBKkTeTA3OhI4mX/oqiMYSB32wI/KxRN9WLN8GYu3KzGheHvoXjqeckmJh3S9VGM3KH0l/DHZysqnEDCvB4F3g==",
+  "dgSpecHash": "nvRHVl/qpO7Q5mwHexptuF1qTcuWvbnNW+S68O+jG0pHGWY/yfKJ6H81VYO7FmWzJgt+7ZCkVovrqSYaMhCJKQ==",
   "success": true,
-  "projectFilePath": "C:\\PersonalRepo\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal.csproj",
+  "projectFilePath": "C:\\PersonalRepo\\CSharp-DOTNET\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

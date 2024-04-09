@@ -1418,11 +1418,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PersonalRepo\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal.csproj",
+      "projectUniqueName": "C:\\PersonalRepo\\CSharp-DOTNET\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal.csproj",
       "projectName": "AzureStorageEmulatorLocal",
-      "projectPath": "C:\\PersonalRepo\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal.csproj",
+      "projectPath": "C:\\PersonalRepo\\CSharp-DOTNET\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal.csproj",
       "packagesPath": "C:\\Users\\Karthek.Chakravarthy\\.nuget\\packages\\",
-      "outputPath": "C:\\PersonalRepo\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\obj\\",
+      "outputPath": "C:\\PersonalRepo\\CSharp-DOTNET\\AzureStorageEmulatorLocal\\AzureStorageEmulatorLocal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karthek.Chakravarthy\\AppData\\Roaming\\NuGet\\NuGet.Config",

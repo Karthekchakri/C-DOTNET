@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureStorageEmulatorLocal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+422a2673c9899d1e3e0a07411b897c5025e4bcf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureStorageEmulatorLocal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureStorageEmulatorLocal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
